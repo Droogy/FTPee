@@ -3,13 +3,13 @@
 
 
 ###########################
-                         #
-                         #
-                         #
-                         # #
-FTPee a Hacking Tool.      #
-                           #
-                           #
+#                         #
+#Evann2007 on discord.    #
+#                         #
+#                         # 
+#     FTPee a Hacking Tool.#
+#                           #
+#                           #
 ########################## #
 
 #below is our host, the initial ftp server that we wanna access, when you run this script how i have it it will NOT work.
@@ -17,7 +17,7 @@ FTPee a Hacking Tool.      #
 #you need to replace our HOST= with the ip/ftp server that you're trying to access
 
 
-HOST='10.10.163.213'
+HOST='10.10.10.10'
 
 
 echo thank you for entering the host.
