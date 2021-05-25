@@ -1,5 +1,17 @@
 #!/bin/bash
 
+
+
+###########################
+                         #
+                         #
+                         #
+                         # #
+FTPee a Hacking Tool.      #
+                           #
+                           #
+########################## #
+
 #below is our host, the initial ftp server that we wanna access, when you run this script how i have it it will NOT work.
 
 #you need to replace our HOST= with the ip/ftp server that you're trying to access
@@ -34,6 +46,10 @@ ls -al
 #now we are going to list all of the names of directorys/files that we want.
 
 get note
+
+get user_flag.txt
+
+get root_flag.txt
 
 get flag.txt
 
