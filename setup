@@ -1,0 +1,16 @@
+#follow these instructions to prepare and use program
+
+
+
+sudo apt-get update
+
+sudo apt-get upgrade
+
+
+chmod +x ftp.sh
+
+
+
+#and when you want to run your file,
+
+./ftp.sh
